@@ -1,0 +1,12 @@
+c:\users\larsb\documents\visual studio 2017\Projects\seriesReminderNTierArchitecture\Data\bin\Debug\netstandard2.0\Data.deps.json
+c:\users\larsb\documents\visual studio 2017\Projects\seriesReminderNTierArchitecture\Data\bin\Debug\netstandard2.0\Data.dll
+c:\users\larsb\documents\visual studio 2017\Projects\seriesReminderNTierArchitecture\Data\bin\Debug\netstandard2.0\Data.pdb
+c:\users\larsb\documents\visual studio 2017\Projects\seriesReminderNTierArchitecture\Data\obj\Debug\netstandard2.0\Data.csproj.CoreCompileInputs.cache
+c:\users\larsb\documents\visual studio 2017\Projects\seriesReminderNTierArchitecture\Data\obj\Debug\netstandard2.0\Data.AssemblyInfoInputs.cache
+c:\users\larsb\documents\visual studio 2017\Projects\seriesReminderNTierArchitecture\Data\obj\Debug\netstandard2.0\Data.AssemblyInfo.cs
+c:\users\larsb\documents\visual studio 2017\Projects\seriesReminderNTierArchitecture\Data\obj\Debug\netstandard2.0\Data.dll
+c:\users\larsb\documents\visual studio 2017\Projects\seriesReminderNTierArchitecture\Data\obj\Debug\netstandard2.0\Data.pdb
+C:\Users\larsb\documents\visual studio 2017\Projects\seriesReminderNTierArchitecture\Data\bin\Debug\netstandard2.0\MySql.Data.dll
+C:\Users\larsb\documents\visual studio 2017\Projects\seriesReminderNTierArchitecture\Data\bin\Debug\netstandard2.0\MySql.Data.xml
+C:\Users\larsb\documents\visual studio 2017\Projects\seriesReminderNTierArchitecture\Data\obj\Debug\netstandard2.0\Data.csproj.CopyComplete
+C:\Users\larsb\documents\visual studio 2017\Projects\seriesReminderNTierArchitecture\Data\obj\Debug\netstandard2.0\Data.csprojAssemblyReference.cache

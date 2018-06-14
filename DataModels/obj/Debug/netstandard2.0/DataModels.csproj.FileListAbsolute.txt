@@ -1,0 +1,9 @@
+c:\users\larsb\documents\visual studio 2017\Projects\seriesReminderNTierArchitecture\DataModels\bin\Debug\netstandard2.0\DataModels.deps.json
+c:\users\larsb\documents\visual studio 2017\Projects\seriesReminderNTierArchitecture\DataModels\bin\Debug\netstandard2.0\DataModels.dll
+c:\users\larsb\documents\visual studio 2017\Projects\seriesReminderNTierArchitecture\DataModels\bin\Debug\netstandard2.0\DataModels.pdb
+c:\users\larsb\documents\visual studio 2017\Projects\seriesReminderNTierArchitecture\DataModels\obj\Debug\netstandard2.0\DataModels.csproj.CoreCompileInputs.cache
+c:\users\larsb\documents\visual studio 2017\Projects\seriesReminderNTierArchitecture\DataModels\obj\Debug\netstandard2.0\DataModels.AssemblyInfoInputs.cache
+c:\users\larsb\documents\visual studio 2017\Projects\seriesReminderNTierArchitecture\DataModels\obj\Debug\netstandard2.0\DataModels.AssemblyInfo.cs
+c:\users\larsb\documents\visual studio 2017\Projects\seriesReminderNTierArchitecture\DataModels\obj\Debug\netstandard2.0\DataModels.dll
+c:\users\larsb\documents\visual studio 2017\Projects\seriesReminderNTierArchitecture\DataModels\obj\Debug\netstandard2.0\DataModels.pdb
+C:\Users\larsb\documents\visual studio 2017\Projects\seriesReminderNTierArchitecture\DataModels\obj\Debug\netstandard2.0\DataModels.csprojAssemblyReference.cache
